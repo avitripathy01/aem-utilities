@@ -1,6 +1,7 @@
-package com.utilities.aem.v1;
+package com.utilities.aem.v1.impl;
 
 import com.day.cq.wcm.api.Page;
+import com.utilities.aem.v1.PageUtility;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.sling.api.resource.Resource;
 import org.apache.sling.api.resource.ResourceResolver;
